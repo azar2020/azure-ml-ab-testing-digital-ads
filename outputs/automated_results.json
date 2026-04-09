@@ -1,0 +1,15 @@
+{
+  "run_date": "2026-04-09 19:00:00",
+  "group_A_size": 54,
+  "group_B_size": 54,
+  "group_A_conversion_rate": 0.0137,
+  "group_B_conversion_rate": 0.0274,
+  "conversion_lift_pct": 100.5,
+  "p_value_conversion": 0.4458,
+  "significant": false,
+  "winner": "Inconclusive",
+  "recommendation": "Extend test \u2014 need 347,759 samples per group",
+  "pipeline": "Azure ML Automated Command Job",
+  "compute": "ml-compute",
+  "experiment": "ab_test_automation"
+}

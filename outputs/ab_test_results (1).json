@@ -1,0 +1,18 @@
+{
+  "group_A_size": 54,
+  "group_B_size": 54,
+  "group_A_CTR": 0.018,
+  "group_B_CTR": 0.0183,
+  "group_A_conversion_rate": 0.0137,
+  "group_B_conversion_rate": 0.0274,
+  "group_A_ROAS": 0.1943,
+  "group_B_ROAS": 0.144,
+  "conversion_lift_pct": 100.5,
+  "p_value_CTR": 0.9327,
+  "p_value_conversion": 0.387,
+  "p_value_ROAS": 0.4705,
+  "p_value_chisquare": 0.2342,
+  "required_sample_size": 347759,
+  "recommendation": "Extend test - insufficient sample size in Group A",
+  "winner": "Inconclusive - need more data"
+}
